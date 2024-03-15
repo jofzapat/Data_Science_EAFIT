@@ -1,1 +1,1 @@
-Corresponde al repositorio para trabajos de maestria
+Corresponde al repositorio para trabajos de maestría 
